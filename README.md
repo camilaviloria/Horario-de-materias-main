@@ -9,6 +9,7 @@
 *   **Integrante 2:** [Camila Viloria]
     *   *División del trabajo:* [Lógica del generador de horarios, gestión del estado de selección, validación de choques y documentacion].
 
+
 ## 🚀 Instrucciones para ejecutar el proyecto
 1. Clona este repositorio o descarga los archivos en tu computadora.
 2. Abre la carpeta del proyecto.
